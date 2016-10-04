@@ -3,5 +3,5 @@ just another repository
 
 Hi humans!
 
-akki here i like gym. coding and coffeescript (that's what i look for!).
-i am smart,ambitious,determined yet cool 
+akki here i want to learn coding and devlopment (that's what i look for!).
+i am a freak smart,ambitious,determined yet cool 
